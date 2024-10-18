@@ -12,6 +12,8 @@ Apart from university and studies, I am interested in many things and my hobbies
 
 [GitHub](https://github.com/hhillee)
 
+[CV](https://www.overleaf.com/read/mtqnrzpggrck#aa1786)
+
 ## Contact
 
 My email address is of the form first_name.last_name@helsinki.fi. 
