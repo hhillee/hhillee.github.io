@@ -10,7 +10,7 @@ Apart from university and studies, I am interested in many things and my hobbies
 
 ## Find me on
 
-[GitHub](https://hhillee.github.io/)
+[GitHub](https://github.com/hhillee)
 
 ## Contact
 
@@ -54,10 +54,9 @@ Kieli ja nationalismi, spring 2024
 
 ## Projects
 
-I am working on a course project in GitHub. The idea of the project is create a frequency list file, sentence per line file and a parse tree file of a book.txt file. This will allow different linguistic studies to be made.
-[cmdline-course (GitHub)](https://github.com/hhillee/cmdline-course)
+I am working on a course project in [GitHub](https://github.com/hhillee/cmdline-course). The idea of the project is create a frequency list file, sentence per line file and a parse tree file of a book.txt file. This will allow different linguistic studies to be made.
 
-This website's project:
+This website project:
 [Command Line - Webpage project](https://github.com/hhillee/hhillee.github.io)
 
 
