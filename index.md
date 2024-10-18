@@ -4,11 +4,13 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am studying in Helsinki University in the Department of Linguistics. I started my studies in fall 2023. I am interested in language technology and I think I will choose that as my major. I am also taking courses from the faculty of Social Sciences.
+
+Apart from university and studies, I am interested in many things and my hobbies shifts as I explore new things. Currently I am reading about philosophy and learning about the art of storytelling.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://hhillee.github.io/)
 
 ## Contact
 
@@ -53,6 +55,17 @@ Kieli ja nationalismi, spring 2024
 
 ## Projects
 
+I am working on a course project in GitHub. The idea of the project is create a frequency list file, sentence per line file and a parse tree file of a book.txt file. This will allow different linguistic studies to be made.
+[cmdline-course (GitHub)](https://github.com/hhillee/cmdline-course)
+
+This website's project:
+[Command Line - Webpage project](https://github.com/hhillee/hhillee.github.io)
+
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+A book about writing that I am currently reading:
+[Several Short Sentences About Writing](https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413)
+
+A book about philosophy that I am currently reading:
+[Suuret filosofit l](https://www.goodreads.com/book/show/12391162-suuret-filosofit)
