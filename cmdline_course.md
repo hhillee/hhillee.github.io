@@ -181,6 +181,8 @@ I created my GitHub page and worked on the cmdline-course project for the week 7
 
 Here's a lovely picture of my _activity_ tab of the project.
 
+<img width="682" alt="activity_tab" src="https://github.com/user-attachments/assets/d47cf428-286f-48b8-af3f-acd9ec242ed7">
+
 
 ### Week 8  Final project
 
