@@ -57,7 +57,7 @@ User has all read, write and execute permissions, group and other have read and 
 
 #### Content:
 
-This week was mainly about text processing tools and structured text files. This week's material introduced useful commands for text processing such as **iconv**, **tr** and **wc**. It also included regular expressions and the command **grep** and **egrep.
+This week was mainly about text processing tools and structured text files. This week's material introduced useful commands for text processing such as **iconv**, **tr** and **wc**. It also included regular expressions and the command **grep** and **egrep**.
 
 #### What I learned:
 
@@ -82,7 +82,16 @@ This week's theme was advanced corpus processing techniques. On top of using the
 The following code creates a sentence per line formatted txt file:
 
 ```
-cat [FILENAME] | dos2unix | sed 's/^$/#/' | tr '\n' ' ' | sed -E 's/([.?!]) ([A-Z])/\1# \2/g' | sed -E 's/([IVX][.])#/\1/g' | tr '#' '\n' | sed 's/^ *//' | sed 's/ *$//' | grep -v "^$" > [FILENAME]
+cat [FILENAME] | 
+dos2unix | 
+sed 's/^$/#/' | 
+tr '\n' ' ' | 
+sed -E 's/([.?!]) ([A-Z])/\1# \2/g' | 
+sed -E 's/([IVX][.])#/\1/g' | 
+tr '#' '\n' | 
+sed 's/^ *//' | 
+sed 's/ *$//' | 
+grep -v "^$" > [FILENAME]
 ```
 
 ##### Explanation of the commands:
@@ -155,7 +164,7 @@ done < $1
 
 #### Content:
 
-Learning to install programmes: softwares and python packages. Learning to use makefiles. Learning commands such as ```sudo``` and ```brew```.
+Learning to install programmes: softwares and python packages. Learning to use makefiles. Learning commands such as **sudo** and **brew**.
 
 #### What I learned:
 
@@ -181,10 +190,31 @@ I created my GitHub page and worked on the cmdline-course project for the week 7
 
 Here's a lovely picture of my _activity_ tab of the project.
 
-! [activity log] (https://github.com/hhillee/hhillee.github.io/blob/cmdline-course/assets/img/activity_tab.png)
+<img width="682" alt="activity_tab" src="https://github.com/user-attachments/assets/d47cf428-286f-48b8-af3f-acd9ec242ed7">
+
 
 ### Week 8  Final project
 
+### Content:
+
 Week 8 is about working on the final project which this webpage essentially is. I learned how to fork in GitHub and create my own website using a template and all this cool stuff. Overall this has been a very useful course.
 
+### What I learned:
 
+```
+git add -A
+```
+
+Adds all the local changes.
+
+```
+git commit -m "message"
+```
+
+Commits them
+
+```
+git push
+```
+
+And finally pushes to remote repository in the current branch.
