@@ -182,7 +182,6 @@ I created my GitHub page and worked on the cmdline-course project for the week 7
 Here's a lovely picture of my _activity_ tab of the project.
 
 
-
 ### Week 8  Final project
 
 Week 8 is about working on the final project which this webpage essentially is. I learned how to fork in GitHub and create my own website using a template and all this cool stuff. Overall this has been a very useful course.
